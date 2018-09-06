@@ -1,1 +1,1 @@
-import torch as py
+print("hello world")
